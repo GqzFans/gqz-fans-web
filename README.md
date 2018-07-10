@@ -1,6 +1,6 @@
 # gqz-fans-web
 
-GaoQiuZi fans website
+GaoQiuZi fans website [DEMO版]
 
 ## Build Setup
 
