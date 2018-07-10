@@ -2,22 +2,8 @@
 
 GaoQiuZi fans website
 
-## Build Setup
+```text
+[master]: 目前跳转至微博页面
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-
-#build some depends
-npm install --save-dev babel-cli
-npm install --save-dev babel-preset-es2015
+[feature_gqz_fans_web_demo]: 此版本为VUE + iView主题的demo页面，希望后期有更多的前端小伙伴来维护首页。
+```
